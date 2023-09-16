@@ -1,2 +1,2 @@
 # MAT327
-For Statistical Inference 
+Data was collected in 2015 by Davide Chicco & Giuseppe Jurman whose research is posted on BioMed Central (BMC). This dataset focuses on using machine learning to predict the survival of patients with heart failure which I find very interesting as a pre-med student. Cardiovascular diseases (CVDs) are the leading cause of death in the US and globally, with roughly 695,000 and  17 million deaths respectively. The dataset also consists of qualitative and quantitative data, which we have been learning to analyze and satisfies the milestone one criteria.
