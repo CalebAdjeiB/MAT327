@@ -1,0 +1,24 @@
+Analyzed 3 data columns: age, ejection fraction, and serum sodium
+Measure of Center & Spread of Age:
+mean = 60.83389
+median = 60
+variance = 141.4865
+standard deviation = 11.89481
+The mean and median are roughly close/same, which is expected because it has a symmetric shape distribution.
+The standard deviation is also expected because approximately half the data values lie to the left and right of the mean, and are not too close to the mean.
+
+Measure of Center & Spread of Ejection Fraction:
+mean = 38.08361
+median = 38
+variance = 140.0635
+standard deviation = 11.83484
+The mean and median values are much closer, classifying the distribution as symmetric.
+The standard deviation shares similar qualities to that of the age dataset. The values are also farther from the mean.
+
+Measure of Center and spread of Serum sodium:
+Mean = 136.6254
+median = 137
+variance = 19.46996
+standard deviation =  4.412477
+The mean and median values are surprisingly close to the median > mean but this can be expected since a majority of values fall between 135 < x < 140 (greatest frequency).
+The standard deviation is quite low due to the majority of the data falling between 135 < x < 140.
