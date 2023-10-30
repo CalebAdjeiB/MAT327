@@ -10,7 +10,19 @@ n = 299
 t = -qt(0.05/2, n -1)
 avg_ef-t*s/sqrt(n)
 avg_ef+t*s/sqrt(n)
-#confidence level = [36.74, 39.39.43]
+#confidence level = [36.74, 39.43]
+
+#95% CI for mean for age
+avg_age = mean(heartfail$age)
+#avg_age = 60.83
+s = sd (heartfail$age)
+#sd = 11.89
+n = 299
+t = -qt(0.05/2, n-1)
+avg_age - t*s/sqrt(n)
+avg_age + t*s/sqrt(n)
+#confidence level = [59.48, 62.19]
+
 
 #95% CI for mean for creatinine phosphokinase
 avg_cp = mean(heartfail$creatinine_phosphokinase)
