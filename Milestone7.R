@@ -12,7 +12,7 @@ avg_ef-t*s/sqrt(n)
 avg_ef+t*s/sqrt(n)
 #confidence level = [36.74, 39.39.43]
 
-#95% CI for mean for ejection fraction
+#95% CI for mean for creatinine phosphokinase
 avg_cp = mean(heartfail$creatinine_phosphokinase)
 #avg_cp = 581.84
 s = sd(heartfail$creatinine_phosphokinase)
